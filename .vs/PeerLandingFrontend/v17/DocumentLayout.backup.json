@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|c:\\users\\wahyu\\source\\repos\\peerlendingfe\\peerlandingfe\\controllers\\api\\apimstusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\api\\apimstusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|c:\\users\\wahyu\\source\\repos\\peerlendingfe\\peerlandingfe\\controllers\\api\\apilogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\api\\apilogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|c:\\users\\wahyu\\source\\repos\\peerlendingfe\\peerlandingfe\\dto\\res\\resmstuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\dto\\res\\resmstuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|c:\\users\\wahyu\\source\\repos\\peerlendingfe\\peerlandingfe\\controllers\\mstusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\mstusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|c:\\users\\wahyu\\source\\repos\\peerlendingfe\\peerlandingfe\\views\\mstuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD470AB4-6F5E-4EF3-85C2-D3F92AFDF0B0}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\mstuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 282,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "ToolTip": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:18:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiMstUserController.cs",
+              "DocumentMoniker": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs",
+              "ToolTip": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs*",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:19:32.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResMstUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\DTO\\Res\\ResMstUserDto.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\DTO\\Res\\ResMstUserDto.cs",
+              "ToolTip": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\DTO\\Res\\ResMstUserDto.cs",
+              "RelativeToolTip": "PeerLandingFE\\DTO\\Res\\ResMstUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:20:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MstUserController.cs",
+              "DocumentMoniker": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Controllers\\MstUserController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\MstUserController.cs",
+              "ToolTip": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Controllers\\MstUserController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\MstUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:21:07.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Views\\MstUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\MstUser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wahyu\\source\\repos\\PeerLendingFE\\PeerLandingFE\\Views\\MstUser\\Index.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\MstUser\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T22:21:22.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
